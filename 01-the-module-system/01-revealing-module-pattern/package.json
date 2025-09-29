@@ -1,0 +1,13 @@
+{
+  "name": "01-revealing-module-pattern",
+  "version": "1.0.0",
+  "description": "To execute the example, use the following command in your terminal:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
