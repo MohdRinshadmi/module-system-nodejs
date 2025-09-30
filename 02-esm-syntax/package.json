@@ -1,0 +1,11 @@
+{
+  "name": "02-esm-syntax",
+  "version": "1.0.0",
+  "description": "These examples use the native ESM syntax (import / export) instead of CommonJS (require / module.exports).",
+  "main": "logger.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

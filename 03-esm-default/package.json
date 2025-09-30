@@ -1,0 +1,11 @@
+{
+  "name": "03-esm-default",
+  "version": "1.0.0",
+  "description": "demonstrates the default import/export syntax of ESM modules",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

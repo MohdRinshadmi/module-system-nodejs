@@ -1,0 +1,11 @@
+{
+  "name": "05-esm-dynamic-imports",
+  "version": "1.0.0",
+  "description": "demonstrates how to load modules dynamically with ESM",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
