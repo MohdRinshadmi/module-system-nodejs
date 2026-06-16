@@ -1,0 +1,11 @@
+{
+  "name": "06-esm-read-only-live-bindings",
+  "version": "1.0.0",
+  "description": "This sample demonstrates that imported ESM modules are read-only live bindings",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

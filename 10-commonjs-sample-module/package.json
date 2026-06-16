@@ -1,0 +1,11 @@
+{
+  "name": "10-commonjs-sample-module",
+  "version": "1.0.0",
+  "description": "This sample demonstrates the CommonJS syntax",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

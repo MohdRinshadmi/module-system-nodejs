@@ -1,0 +1,16 @@
+{
+  "name": "09-esm-monkey-patching",
+  "version": "1.0.0",
+  "description": "This sample demonstrates the usage of monkey-patching of modules in ESM",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

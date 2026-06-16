@@ -1,0 +1,14 @@
+{
+  "name": "07-esm-module-resolution",
+  "version": "1.0.0",
+  "description": "This sample demonstrates how module resolution works with ESM",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fastify": "^5.6.1"
+  }
+}
